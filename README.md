@@ -9,7 +9,7 @@ The automation handles **up to 2 million transaction records**, significantly re
 
 ---
 
-## 🎯 Role & Responsibilities (Business Analyst Perspective)
+## 🎯 Role & Responsibilities 
 
 During this project, I performed responsibilities aligned with a **Business Analyst role**:
 

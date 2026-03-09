@@ -112,7 +112,7 @@ The automation significantly improved reconciliation efficiency and reduced manu
 
 ## 🏗 System Architecture
 
-![System Flow](screenshots/SystemFlow.png)
+![System Flow](screenshots/SystemFlow_DuitNow.png)
 
 ---
 
@@ -144,10 +144,8 @@ The automation significantly improved reconciliation efficiency and reduced manu
 ![PowerQuery](screenshots/PowerQuery.png)
 
 ### Reconciliation Automation Interface
-![Automation](screenshots/ReconciliationTool.png)
+![Automation](screenshots/DuitnowInterface.png)
 
-### Exception Handling & Unmatched Transactions
-![Exception](screenshots/ExceptionHandling.png)
 
 ---
 

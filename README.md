@@ -118,7 +118,6 @@ The automation significantly improved reconciliation efficiency and reduced manu
 
 ## 🛠 Tools & Technologies
 
-- 🐍 Python  
 - 📊 Power Query  
 - 📄 Excel VBA  
 - 📈 Microsoft Excel  

@@ -1,7 +1,7 @@
 # Reconciliation-Automation-DuitNow- 🚀
 
 ## 📌 Overview
-This project focuses on **automating the reconciliation process for DuitNow transactions** by transforming a manual workflow into a scalable automated solution using **Excel VBA, Power Query, and Python**.
+This project focuses on **automating the reconciliation process for DuitNow transactions** by transforming a manual workflow into a scalable automated solution using **Excel VBA, Power Query**.
 
 The solution was developed after conducting **requirement gathering sessions with the General Ledger (GL) Operations team** to understand their daily reconciliation challenges when processing large transaction datasets from **PayNet TAR02 files and Mambu system reports**.
 

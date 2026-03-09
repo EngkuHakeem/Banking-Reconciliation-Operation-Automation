@@ -1,4 +1,4 @@
-# Reconciliation-Automation-DuitNow-BigData 🚀
+# Reconciliation-Automation-DuitNow- 🚀
 
 ## 📌 Overview
 This project focuses on **automating the reconciliation process for DuitNow transactions** by transforming a manual workflow into a scalable automated solution using **Excel VBA, Power Query, and Python**.

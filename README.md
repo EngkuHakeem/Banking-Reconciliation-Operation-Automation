@@ -144,7 +144,7 @@ The automation significantly improved reconciliation efficiency and reduced manu
 ![PowerQuery](screenshots/PowerQuery.png)
 
 ### Reconciliation Automation Interface
-![Automation](screenshots/DuitnowInterface.png)
+![Automation](screenshots/DuitNowInterface.png)
 
 
 ---
